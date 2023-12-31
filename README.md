@@ -1,2 +1,6 @@
 # TMU_Computer_Science-Data_Mining
-course project for the "R for Data Science" course by Professor Mansour Rezghi at Tarbiat Modares University.
+This repository contains materials from the classes taught by Professor Mansour Rezghi at Tarbiat Modares University for the Master of Science program in Computer Science-Data Mining.
+
+
+
+
